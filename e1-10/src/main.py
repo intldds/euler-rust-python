@@ -2,6 +2,7 @@
 #
 # http://www.s-anand.net/euler.html
 # https://github.com/nayuki/Project-Euler-solutions/tree/master/python
+# chatGPT
 
 import math
 import time
